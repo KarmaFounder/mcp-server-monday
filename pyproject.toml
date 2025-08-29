@@ -3,7 +3,7 @@ name = "mcp-server-monday"
 version = "0.3.0"
 description = "MCP Server for monday.com"
 readme = "README.md"
-requires-python = ">=3.10"
+requires-python = ">=3.10, <4.0"
 dependencies = [
  "fastmcp>=2.11.3",
  "mcp[cli]>=1.2.1",
